@@ -1,0 +1,63 @@
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+*{
+  border: 1px solid red !important;
+}
+@media only screen and (max-width:300px)
+{
+p{
+display: none;
+}
+}
+.row
+{
+  width:100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col1{
+  width: 10%;
+}
+
+.col2{
+  width: 20%;
+}
+
+.col3{
+  width: 30%;
+}
+
+.col4
+{
+  width: 40%;
+}
+
+.col15{
+  width: 50%;
+}
+
+.col6{
+  width: 60%;
+}
+.col7{
+  width: 70%;
+}
+.col8{
+  width: 80%;
+}
+.col9
+{
+  width: 90%;
+}
+
+.col10{
+  width: 100%;
+}
+
+
+

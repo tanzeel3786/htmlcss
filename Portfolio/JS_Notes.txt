@@ -1,0 +1,11 @@
+Str.replace(old_string,new_string);
+str.slice(beginPosition , optionalEndPosition)
+
+Undefined means that variable dosent exist an the interpreter docent know what are you refffreing to.
+Null means variable exist but does not have a value.
+
+Var arr=[item1,item2 and so on];
+
+Obj.property=value or obj["property"]=value
+
+A keyword called let was introduced in ES6, a major update to JavaScript, to solve this potential issue with the var keyword.
